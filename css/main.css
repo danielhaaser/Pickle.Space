@@ -57,9 +57,15 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.cucumber {
+
+}
 
 .attribution {
     color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
     text-align: center;
 }
 

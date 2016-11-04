@@ -83,8 +83,8 @@ textarea {
     height: 3em;   /* Height of the footer */
 }
 
-.cucumber {
-
+#cucumber {
+    /*transform: translateY(-500px);*/
 }
 
 .attribution {
@@ -99,6 +99,13 @@ a:link {
 a:visited {
     color: white;
 }
+
+/*@namespace svg 'http://www.w3.org/2000/svg';
+*:not(svg|*) {
+  -webkit-transform-origin-x: 50%;
+  -webkit-transform-origin-y: 50%;
+  -webkit-transform-origin-z: initial;
+}*/
 
 
 /* ==========================================================================

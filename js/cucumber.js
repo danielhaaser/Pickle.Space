@@ -310,7 +310,7 @@ if (loop == null) { loop = false; }	this.initialize(mode,startPosition,loop,{dan
 
 	// timeline functions:
 	this.frame_44 = function() {
-		playSound("weridpickle_v4_intro");
+		playSound("weirdpickle_v4_intro");
 	}
 	this.frame_360 = function() {
 		playSound("weirdpickle_v4_dance",-1);
@@ -348,7 +348,7 @@ lib.properties = {
 	opacity: 0.00,
 	manifest: [
 		{src:"sounds/weirdpickle_v4_dance.mp3?1478572135395", id:"weirdpickle_v4_dance"},
-		{src:"sounds/weridpickle_v4_intro.mp3?1478572135395", id:"weridpickle_v4_intro"}
+		{src:"sounds/weirdpickle_v4_intro.mp3?1478572135395", id:"weirdpickle_v4_intro"}
 	],
 	preloads: []
 };

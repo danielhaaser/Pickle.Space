@@ -3,13 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Daniel Haaser -- Lead Cucumber -- http://daniel.fail
 
 # THANKS
 
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
+    drewbots for the domain

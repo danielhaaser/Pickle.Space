@@ -347,8 +347,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 0.00,
 	manifest: [
-		{src:"sounds/weirdpickle_v4_dance.mp3?1478569821507", id:"weirdpickle_v4_dance"},
-		{src:"sounds/weridpickle_v4_intro.mp3?1478569821507", id:"weridpickle_v4_intro"}
+		{src:"sounds/weirdpickle_v4_dance.mp3?1478572135395", id:"weirdpickle_v4_dance"},
+		{src:"sounds/weridpickle_v4_intro.mp3?1478572135395", id:"weridpickle_v4_intro"}
 	],
 	preloads: []
 };
